@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * @author admin
  */
 public interface IVistaTerminadorEmpleado {
-    public void permiteTermina(boolean permiso);
+    public void permiteTermina();
     public void ponListaEmpleado(ArrayList empleados);
     public void borraSeleccion();
 }
