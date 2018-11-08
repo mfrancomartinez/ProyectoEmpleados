@@ -10,7 +10,7 @@ package proyectoempleado;
  * @author admin
  */
 public interface IControladorTerminadorEmpleado {
-    public void seleccionCambiada(String empleado);
+    public String seleccionCambiada(String empleado);
     public void termina();
     
 }
