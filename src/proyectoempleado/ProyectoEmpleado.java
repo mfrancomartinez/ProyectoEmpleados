@@ -21,16 +21,18 @@ public class ProyectoEmpleado {
     public static void main(String[] args) {
         ArrayList <String> empleado;
         empleado = new ArrayList();
+        empleado.clear();
         
         empleado.add("Victor");
         empleado.add("Miguel");
         empleado.add("Marcos");
-        ModeloTerminadorEmpleado m = null;
-        DialogoTerminadorEmpleado d = null;
+        ModeloTerminadorEmpleado m = new ModeloTerminadorEmpleado();
+        DialogoTerminadorEmpleado d = new DialogoTerminadorEmpleado();
         
         d.modelo = m;
         m.vista = d;
         m.inicializar(empleado);
+        d.ponListaEmpleado(empleado);
         
         
         
