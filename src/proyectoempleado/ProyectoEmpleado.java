@@ -25,6 +25,70 @@ public class ProyectoEmpleado {
         
         empleado.add("Victor");
         empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        empleado.add("Miguel");
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         empleado.add("Marcos");
         ModeloTerminadorEmpleado m = new ModeloTerminadorEmpleado();
         DialogoTerminadorEmpleado d = new DialogoTerminadorEmpleado();
